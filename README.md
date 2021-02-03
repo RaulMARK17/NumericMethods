@@ -1,6 +1,6 @@
 # NumericMethods
 Esta librería es una recopilación de códigos que realicé en mi tiempo estudiado métodos numéricos y aplicándolos en algunas otras materias. 
-Todos los códigos son automáticos, practicamente cualquier problema de aproximación, derivación, integración es posible resolver.
+Todos los códigos son automáticos, practicamente cualquier problema de aproximación, derivación, integración es posible resolver mientras esté en los límites y naturaleza del método. 
 
 Pueden graficarse las funciones, los puntos, evaluar nuevos puntos y ajustar los límites de las gráficas.
 Obtener las funciones resultantes(de los métodos de interpolación) en formato de código python o texto.
@@ -9,7 +9,7 @@ Para ecuaciones diferenciales es posible obtener una gráfica comparativa de la 
 
 Con Newton-Raphson es posible visualizar que efectivamente el punto ha llegado a donde se esperaba por medio de una gráfica.
 
-Se pueden ajustar límites, precisión, número de pasos, tamaño de pasos, entre otras opciones que son opcionales.
+Se pueden ajustar límites, precisión, número de pasos, tamaño de pasos, entre otras opciones. 
 
 Todo está comentado y es bastante sencillo de usar, con solo ingresar unos cuantos datos ya se obtienen resultados.
 
