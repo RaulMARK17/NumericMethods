@@ -1,6 +1,6 @@
 # Por Raúl A. Góngora Vázquez, estudiante de Ing. Biomédica.
 """
-NumericMethods.py es una libreria que cuenta con varios metodos numericos:
+NumericMethods.py(V1) es una libreria que cuenta con varios metodos numericos:
 
 -Interpolación lineal
 -Interpolación de LaGrange
