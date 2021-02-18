@@ -13,24 +13,24 @@ Se pueden ajustar límites, precisión, número de pasos, tamaño de pasos, entr
 
 Todo está comentado y es bastante sencillo de usar, con solo ingresar unos cuantos datos ya se obtienen resultados.
 
-Los métodos presentes son:
--Interpolación lineal
--Interpolación de LaGrange
--Interpolación de Newton
+## Los métodos presentes son:
+* Interpolación lineal
+* Interpolación de LaGrange
+* Interpolación de Newton
 
--Aproximación lineal por mínimos cuadrados
+* Aproximación lineal por mínimos cuadrados
+* Newton-Raphson
 
--Newton-Raphson
+> Calculo
+ * derivación numérica por diferencia centrada de cuarto orden
+ * integración por el metodo del trapecio
 
--Calculo
- -derivación numérica por diferencia centrada de cuarto orden
- -integración por el metodo del trapecio
-
--Ecuaciones diferenciales:
--metodo de euler
--euler mejorado
--Runge-Kutta de cuarto orden
+> Ecuaciones diferenciales:
+* metodo de euler
+* euler mejorado
+* Runge-Kutta de cuarto orden
  
  Cada método es una clase. 
+ 
  Por la naturaleza de los métodos y las limitaciones del lenguaje(o mi conocimiento de él) algunas clases imprimen un código ejecutable, listo para copiar y ejecutar donde se desee. 
  REQUIERE NUMPY Y MATPLOTLIB.
