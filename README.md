@@ -33,4 +33,6 @@ Todo está comentado y es bastante sencillo de usar, con solo ingresar unos cuan
  Cada método es una clase. 
  
  Por la naturaleza de los métodos y las limitaciones del lenguaje(o mi conocimiento de él) algunas clases imprimen un código ejecutable, listo para copiar y ejecutar donde se desee. 
+ 
+ 
  REQUIERE NUMPY Y MATPLOTLIB.
